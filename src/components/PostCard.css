@@ -1,0 +1,31 @@
+.post-card {
+  background: white;
+  border: 1px solid #f0d0dc;
+  border-radius: 12px;
+  padding: 18px 24px;
+  cursor: pointer;
+  transition: box-shadow 0.2s, transform 0.15s;
+}
+
+.post-card:hover {
+  box-shadow: 0 4px 16px rgba(212, 84, 122, 0.15);
+  transform: translateY(-2px);
+}
+
+.post-time {
+  font-size: 0.8rem;
+  color: #9a7080;
+  margin-bottom: 6px;
+}
+
+.post-title {
+  font-size: 1.05rem;
+  font-weight: bold;
+  color: #2d1b24;
+  margin-bottom: 8px;
+}
+
+.post-upvotes {
+  font-size: 0.85rem;
+  color: #d4547a;
+}
