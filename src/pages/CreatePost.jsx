@@ -32,7 +32,6 @@ function CreatePost() {
         content: content || null,
         image_url: imageUrl || null,
         upvotes: 0,
-        user_id: user.id,
       })
       if (insertError) throw insertError
       navigate('/')
