@@ -8,7 +8,7 @@ This web app: **NailHub is a community forum for nail enthusiasts to share tips,
 
 Deployed at: **https://prismatic-medovik-fc1349.netlify.app/**
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
